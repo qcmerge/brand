@@ -6,7 +6,7 @@ This mark was designed by GoDutch. [http://www.godutchstudio.com](http://www.god
 
 ## Usage
 
-![Queen City Merge Usage](//raw.github.com/qcmerge/brand/master/usage/qcmerge-usage.png)
+![Queen City Merge Usage](https://raw.github.com/qcmerge/brand/master/usage/qcmerge-usage.png)
 
 The `crown` mark should coupled with the `QC Merge` text as the primary means of identification. The `crown` by itself should only be used as an accent (like on a shirt) or in small spaces (like a Twitter icon).
 
@@ -15,7 +15,7 @@ The `crown` mark should coupled with the `QC Merge` text as the primary means of
 
 ## Examples
 
-![Queen City Merge Examples](//raw.github.com/qcmerge/brand/master/usage/qcmerge-examples.png)
+![Queen City Merge Examples](https://raw.github.com/qcmerge/brand/master/usage/qcmerge-examples.png)
 
 # The Queen City Merge Brand
 
