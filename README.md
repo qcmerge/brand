@@ -1,4 +1,4 @@
-![Queen City Merge Mark]()
+![Queen City Merge Mark](//raw.github.com/qcmerge/brand/master/png/qcmerge-mark.png)
 
 # The Queen City Merge Mark
 
